@@ -1,6 +1,8 @@
 ## Oi, Eu me chamo Artur!!!
  <div>
   <a href="https://github.com/code0Artuh
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code0Artuh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code0Artuh&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,6 +18,7 @@
   <a href="https://www.instagram.com/arturrocha123" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
 </div>
-<div>
-![Snake animation](https://github.com/code0Artuh/code0Artuh/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+             
+            
+          ![Snake animation](https://github.com/code0Artuh/code0Artuh/blob/output/github-contribution-grid-snake.svg)
