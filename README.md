@@ -19,7 +19,7 @@
 <div> 
   <a " href="https://www.instagram.com/arturrocha123" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <img src="https://github.com/code0Artuh/code0Artuh/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
-             
-      
+</div>                                                                                              
+<div>
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif"/>
+</div>                                                                                                  
