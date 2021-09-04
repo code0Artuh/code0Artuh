@@ -1,4 +1,12 @@
-## Oi, Eu me chamo Artur!!!
+```kotlin
+object **Oi, eu me chamo Artur** {
+ var name = "Artur Rocha"
+ 
+ var primarySkillset = "ALGUMAS HABILIDADES"
+ var languages = listOf("Python", "JavaScript",) 
+
+}
+```
 <div>
   <a href="https://github.com/code0Artuh">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=code0Artuh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
