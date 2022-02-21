@@ -3,7 +3,7 @@ object **Oi, eu me chamo Artur** {
  var name = "Artur Rocha"
  
  var primarySkillset = "ALGUMAS HABILIDADES"
- var languages = listOf("Python", "JavaScript",) 
+ var languages = listOf("Python", "JavaScript", "TypeScript", "NestJS", "PostgreSQL", "MongoDB", "HTML5", "CSS3", ) 
 }
 ```
 
