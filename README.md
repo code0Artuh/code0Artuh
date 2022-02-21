@@ -8,10 +8,7 @@ object **Oi, eu me chamo Artur** {
 ```
 
 <div>
-  <a href="https://github.com/code0Artuh">
-   
-  ### Repositorio de aprendizagem: 
-  https://github.com/code0Artuh/Crud-Typescript
+ 
    
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=code0Artuh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code0Artuh&layout=compact&langs_count=7&theme=dark"/>
